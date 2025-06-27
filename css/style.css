@@ -221,7 +221,7 @@ html .woocommerce .greennature-widget-title { font-size: 12px; }
 
 .greennature-fixed-header{ position: fixed; top: 0px; left: 0px; right: 0px; z-index: 999; }
 .greennature-fixed-header .greennature-logo { margin-top: 16px; margin-bottom: 16px; }
-.greennature-fixed-header .greennature-logo img{ max-height: 38px; width: auto; }
+.greennature-fixed-header .greennature-logo img{ max-height: 50px; width: auto; }
 .greennature-fixed-header .greennature-navigation-wrapper{ margin-top: 25px; }
 .greennature-fixed-header .greennature-main-menu > li > a { padding-bottom: 18px; }
 .greennature-fixed-header .greennature-navigation-slide-bar{ display: none; }
